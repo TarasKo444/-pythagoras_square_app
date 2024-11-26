@@ -1,0 +1,227 @@
+{
+    "character": {
+        "intensity_levels": {
+            "none": {
+                "description": "Absence of character. The individual may lack a strong sense of personal strength or determination. They may struggle to maintain consistency in their actions and decisions, and may exhibit indecisiveness or a tendency to be easily influenced by others. This can result in a weaker personal identity and a less resilient nature."
+            },
+            "1": {
+                "description": "Minimal character strength. The individual may lack the willpower or determination to pursue their goals consistently. They might struggle with commitment and may give up easily when faced with challenges."
+            },
+            "11": {
+                "description": "Moderate character strength. The individual has some level of willpower and determination, but they may still face difficulties in maintaining focus or pushing through challenges consistently."
+            },
+            "111": {
+                "description": "Balanced character strength. The individual demonstrates steady willpower and determination, capable of following through on their goals with persistence and focus."
+            },
+            "1111": {
+                "description": "Strong character strength. The individual exhibits considerable willpower and is highly determined to achieve their goals. They are able to face challenges with resilience and confidence."
+            },
+            "11111": {
+                "description": "Exceptional character strength. The individual possesses extraordinary determination and willpower, capable of overcoming major obstacles with ease. They have a strong sense of purpose and are highly committed to their personal, social, and professional endeavors."
+            },
+            "max": {
+                "description": "Overwhelming character strength. The individual has an exceptional, almost unbreakable willpower, and is driven by a deep sense of purpose and commitment. They are capable of accomplishing extraordinary feats through sheer determination and focus."
+            }
+        }
+    },
+    "energy": {
+        "intensity_levels": {
+            "none": {
+                "description": "Absence of energy. The individual may feel a persistent lack of motivation or drive, often struggling to take action or engage in physical activities. They may appear lethargic or disengaged, finding it difficult to summon the energy to meet everyday challenges. This absence can lead to a sense of inertia or a lack of vitality in their life."
+            },
+            "2": {
+                "description": "Minimal energy. The individual may often feel lethargic or lack the motivation to take initiative. They may struggle with completing tasks efficiently and may not exhibit a strong desire to act quickly or assertively."
+            },
+            "22": {
+                "description": "Moderate energy. The individual has the ability to take action when needed but may require some effort or external motivation. They can get things done but may not always act with urgency or speed."
+            },
+            "222": {
+                "description": "Balanced energy. The individual is able to maintain a steady level of energy, allowing them to act quickly when required. They are generally motivated and able to accomplish tasks without excessive effort, but might not be the most driven in highly demanding situations."
+            },
+            "2222": {
+                "description": "Strong energy. The individual displays a high level of energy, able to act decisively and efficiently in various situations. They are proactive and tend to accomplish tasks swiftly, often finding ways to overcome obstacles with ease."
+            },
+            "22222": {
+                "description": "Exceptional energy. The individual possesses an extraordinary level of energy, consistently motivated and able to take swift and effective action. They can navigate complex situations with remarkable speed and efficiency, showing exceptional drive and enthusiasm."
+            },
+            "max": {
+                "description": "Overwhelming energy. The individual has an incredible surplus of energy, enabling them to take on multiple tasks simultaneously and make things happen with great speed and effectiveness. Their ability to act quickly and decisively often leads to major successes and significant achievements."
+            }
+        }
+    },
+    "interests": {
+        "intensity_levels": {
+            "none": {
+                "description": "Absence of interests. The individual may show little to no curiosity or engagement in any particular field, whether scientific, artistic, or practical. They may have a narrow focus or lack the desire to explore new topics, leading to a sense of intellectual stagnation or a lack of passion for learning and discovery."
+            },
+            "3": {
+                "description": "Minimal cognitive capacities and interests. The individual may have a limited focus on learning or exploring new topics, showing little curiosity about scientific or pragmatic disciplines."
+            },
+            "33": {
+                "description": "Moderate cognitive capacities and interests. The individual has a balanced curiosity, showing interest in specific areas of science or practical applications but may not pursue them deeply."
+            },
+            "333": {
+                "description": "Balanced cognitive capacities and interests. The individual demonstrates consistent curiosity and engagement with both theoretical and practical disciplines. They have the ability to delve deeper into subjects of interest."
+            },
+            "3333": {
+                "description": "Strong cognitive capacities and interests. The individual shows a keen interest in various scientific, mathematical, and pragmatic fields. They are likely to be lifelong learners and intellectually active."
+            },
+            "33333": {
+                "description": "Exceptional cognitive capacities and interests. The individual is highly curious and deeply engaged in a wide range of subjects, from exact sciences to the arts. They excel in understanding and applying complex concepts."
+            },
+            "max": {
+                "description": "Overwhelming cognitive capacities and interests. The individual has extraordinary intellectual curiosity, often diving deeply into diverse and specialized fields. Their broad range of interests can be inspiring but might also seem intense or all-consuming to others."
+            }
+        }
+    },
+    "health": {
+        "intensity_levels": {
+            "none": {
+                "description": "Absence of health. The individual may experience a significant lack of physical vitality, resilience, and endurance. They might struggle with maintaining basic physical well-being and could be prone to frequent illnesses or a general sense of weakness. Mental stability may also be compromised, making it harder to cope with external stress or negative influences."
+            },
+            "4": {
+                "description": "Minimal health. The individual may experience frequent physical or mental health challenges. Their strength and endurance may be limited, and they may struggle with coping effectively with external stressors."
+            },
+            "44": {
+                "description": "Moderate health. The individual has a reasonable level of physical resilience and mental stability, but may still experience occasional health issues or difficulties in managing stress or external pressures."
+            },
+            "444": {
+                "description": "Balanced health. The individual maintains good physical strength and endurance, and they are generally mentally stable. They can resist negative impacts from their environment but may still face occasional challenges."
+            },
+            "4444": {
+                "description": "Strong health. The individual enjoys a high level of physical vitality and endurance. They are mentally resilient, able to handle stress and external irritations with ease and recover quickly from setbacks."
+            },
+            "44444": {
+                "description": "Exceptional health. The individual possesses outstanding physical strength and mental stability. They are highly resilient, able to endure both physical and mental challenges with remarkable ease and grace."
+            },
+            "max": {
+                "description": "Overwhelming health. The individual has exceptional vitality, strength, and mental fortitude. They are able to withstand almost any physical or mental challenge and recover swiftly, often remaining unshaken by life's difficulties."
+            }
+        }
+    },
+    "logic": {
+        "intensity_levels": {
+            "none": {
+                "description": "Absence of logic. The individual may struggle with rational thinking, decision-making, and problem-solving. Their ability to analyze situations logically may be limited, often relying on intuition or emotional responses rather than clear reasoning. This can lead to inconsistent judgments or difficulty in understanding complex issues."
+            },
+            "5": {
+                "description": "Minimal logic. The individual may struggle with logical reasoning and decision-making, often relying more on intuition than on structured thought. Their approach to problems may be erratic, lacking clarity or coherence."
+            },
+            "55": {
+                "description": "Moderate logic. The individual can think logically at times, but their reasoning may not always be consistent. They may use intuition to complement their logical thinking, but their decisions may lack precision or clear analysis."
+            },
+            "555": {
+                "description": "Balanced logic. The individual demonstrates a good blend of intuition and logical thinking. They can analyze situations effectively, but their approach may still be influenced by personal feelings or external factors."
+            },
+            "5555": {
+                "description": "Strong logic. The individual possesses a sharp, clear, and structured way of thinking. They excel at problem-solving and reasoning, applying logic consistently in their decisions. Intuition may still play a role, but their logical thinking is dominant."
+            },
+            "55555": {
+                "description": "Exceptional logic. The individual has outstanding logical abilities, able to reason through complex problems with clarity and precision. They balance intuition and logic effectively, using both to arrive at well-considered conclusions."
+            },
+            "max": {
+                "description": "Overwhelming logic. The individual demonstrates extraordinary logical thinking, often able to see solutions or patterns that others miss. Their ability to analyze and reason is highly developed, and they use both logic and intuition seamlessly to guide their decisions."
+            }
+        }
+    },
+    "work": {
+        "intensity_levels": {
+            "none": {
+                "description": "Absence of aptitude for work. The individual may lack the drive, energy, or inclination to engage in physical labor or productive activities. They may struggle to focus on tasks, often feeling uninterested or unwilling to put in the effort required for success. This can result in a lack of motivation and poor work ethic."
+            },
+            "6": {
+                "description": "Minimal aptitude for work. The individual may struggle with physical tasks or find it difficult to apply energy toward work. Their motivation may be low, and they may lack a strong inclination to work or create, preferring to avoid labor."
+            },
+            "66": {
+                "description": "Moderate aptitude for work. The individual is capable of physical labor but may not always be fully engaged. They have the capacity to work, but their energy or inclination to do so may fluctuate based on circumstances or personal motivation."
+            },
+            "666": {
+                "description": "Balanced aptitude for work. The individual can sustain a steady level of effort in their tasks. They have a reasonable ability to apply themselves physically and mentally, working with determination, though their energy may be influenced by external factors."
+            },
+            "6666": {
+                "description": "Strong aptitude for work. The individual demonstrates a high level of energy and drive when it comes to physical tasks. They have a natural inclination to engage in work and tend to approach tasks with enthusiasm and dedication."
+            },
+            "66666": {
+                "description": "Exceptional aptitude for work. The individual has an extraordinary capacity for sustained physical labor and mental focus. They are highly motivated and driven, consistently putting in effort toward their work and achieving significant results."
+            },
+            "max": {
+                "description": "Overwhelming aptitude for work. The individual possesses exceptional stamina and drive, able to work tirelessly and with great dedication. They exhibit an intense desire to apply themselves to tasks, achieving exceptional results in any area of work."
+            }
+        }
+    },
+    "luck": {
+        "intensity_levels": {
+            "none": {
+                "description": "Absence of luck. The individual may frequently face setbacks, misfortunes, or lack of opportunities. They might feel as though fortune is rarely on their side, and their efforts may often go unrewarded. Circumstances may seem to conspire against them, and good fortune may appear elusive."
+            },
+            "7": {
+                "description": "Minimal luck. The individual may experience frequent setbacks or feel as though fortune is rarely on their side. They may struggle to find opportunities or encounter challenges that feel beyond their control."
+            },
+            "77": {
+                "description": "Moderate luck. The individual experiences luck on occasion, but it may not be consistent. They may sometimes find themselves in fortunate circumstances, but luck may not always be there when needed."
+            },
+            "777": {
+                "description": "Balanced luck. The individual has a fair amount of good fortune, often experiencing favorable outcomes in their endeavors. They can find opportunities or experience timely assistance in various aspects of life."
+            },
+            "7777": {
+                "description": "Strong luck. The individual seems to be in the right place at the right time, often benefiting from favorable circumstances or fortunate events. Their efforts tend to be rewarded, and they find themselves with advantageous opportunities."
+            },
+            "77777": {
+                "description": "Exceptional luck. The individual enjoys extraordinary fortune, with events often aligning in their favor. Their ventures tend to be successful, and they frequently experience unexpected, positive outcomes in both personal and professional aspects."
+            },
+            "max": {
+                "description": "Overwhelming luck. The individual is exceptionally lucky, often experiencing synchronicities and extraordinary events that seem almost miraculous. Their life is marked by an ongoing stream of fortunate circumstances that seem to guide them effortlessly."
+            }
+        }
+    },
+    "duty": {
+        "intensity_levels": {
+            "none": {
+                "description": "Absence of duty. The individual may lack a sense of responsibility, commitment, or moral obligation. They might not feel a strong need to act with integrity or adhere to principles of fairness. This could lead to a lack of direction or a failure to fulfill important responsibilities, both in personal and professional life."
+            },
+            "8": {
+                "description": "Minimal sense of duty. The individual may struggle with commitment or responsibility, often avoiding tasks that require moral or ethical engagement. They may lack a clear understanding of justice or may act in a self-serving manner."
+            },
+            "88": {
+                "description": "Moderate sense of duty. The individual understands the importance of responsibility and commitment but may not always follow through. They may act ethically when it is convenient but may lack consistency in their sense of duty."
+            },
+            "888": {
+                "description": "Balanced sense of duty. The individual shows a strong sense of responsibility, understanding the moral implications of their actions. They strive to fulfill their commitments and demonstrate a consistent commitment to fairness and justice."
+            },
+            "8888": {
+                "description": "Strong sense of duty. The individual feels a deep responsibility toward others and society. They act with integrity and uphold ethical principles consistently, often placing the needs of others or a greater cause before their own."
+            },
+            "88888": {
+                "description": "Exceptional sense of duty. The individual is driven by a profound sense of moral responsibility, always striving to do what is right. Their commitment to justice and duty is unwavering, and they consistently make sacrifices for the greater good."
+            },
+            "max": {
+                "description": "Overwhelming sense of duty. The individual is intensely driven by a sense of duty, often going beyond what is expected to ensure justice and fairness. Their commitment to ethical principles may be seen as a defining characteristic of their personality."
+            }
+        }
+    },
+    "memory": {
+        "intensity_levels": {
+            "none": {
+                "description": "Absence of memory. The individual may struggle to retain or recall information. They may have difficulty remembering important details, events, or facts. This could lead to frequent forgetfulness, a lack of continuity in thought, and challenges in maintaining long-term knowledge or learning new concepts."
+            },
+            "9": {
+                "description": "Minimal memory. The individual may struggle with retaining and recalling information, often forgetting things shortly after learning them. Their ability to analyze past experiences may be limited, and they may have difficulty drawing conclusions from past events."
+            },
+            "99": {
+                "description": "Moderate memory. The individual can remember basic information and recall relevant details when needed, but may sometimes struggle with long-term retention. Their ability to analyze patterns and past experiences may be effective, though not always reliable."
+            },
+            "999": {
+                "description": "Balanced memory. The individual has a strong ability to recall information and analyze past experiences with clarity. Their long-term memory is sharp, and they can connect past events to predict future outcomes with a reasonable degree of accuracy."
+            },
+            "9999": {
+                "description": "Strong memory. The individual has an excellent memory, able to recall information in detail and make insightful connections between past experiences. Their ability to analyze situations based on memory allows them to provide valuable advice and predictions."
+            },
+            "99999": {
+                "description": "Exceptional memory. The individual has an extraordinary memory and analytical ability, able to synthesize vast amounts of information and foresee outcomes with high precision. Their wisdom often seems prophetic, and they can connect the dots in ways others cannot."
+            },
+            "max": {
+                "description": "Overwhelming memory. The individual possesses an almost extraordinary memory, capable of recalling vast amounts of information with ease. They can effortlessly draw on past experiences to provide deeply insightful predictions and advice that seem beyond ordinary reasoning."
+            }
+        }
+    }
+}
